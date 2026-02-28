@@ -1,4 +1,5 @@
 # XyPlayer 智能解析 v4.21
+<img width="771" height="501" alt="捕获" src="https://github.com/user-attachments/assets/e1e8484d-5ec0-40a8-901f-8ebc5d61e975" />
 
 ## 项目简介
 XyPlayer 智能解析是一款功能强大的视频解析系统，无需安装数据库，上传即可使用，支持多种播放器和模板切换，提供丰富的后台管理功能。
