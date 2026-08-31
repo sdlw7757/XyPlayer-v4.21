@@ -1,0 +1,16 @@
+错误发生！错误属于：2,scandir(C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data/../../cache,C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data/../../cache): ϵͳ�Ҳ���ָ�����ļ��� (code: 2)，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\models\Cache.php，位于行 156
+错误发生！错误属于：2,scandir(C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data/../../cache): failed to open dir: No such file or directory，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\models\Cache.php，位于行 156
+错误发生！错误属于：2,scandir(): (errno 2): No such file or directory，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\models\Cache.php，位于行 156
+错误发生！错误属于：2,Invalid argument supplied for foreach()，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\models\Cache.php，位于行 157
+错误发生！错误属于：8,Undefined index: kw，所在文件 C:\Users\Administrator\Desktop\XyPlayer 智能解析 v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: page，所在文件 C:\Users\Administrator\Desktop\XyPlayer 智能解析 v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: kw，所在文件 C:\Users\Administrator\Desktop\XyPlayer 智能解析 v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: page，所在文件 C:\Users\Administrator\Desktop\XyPlayer 智能解析 v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: kw，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: page，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: kw，所在文件 C:\Users\Administrator\Desktop\XyPlayer 智能解析 v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：8,Undefined index: page，所在文件 C:\Users\Administrator\Desktop\XyPlayer 智能解析 v4.22\mov\data\index.php，位于行 151
+错误发生！错误属于：2,file_get_contents(https://api.so.360kan.com/index?force_v=1&kw=����&from=&pageno=1&v_ap=1&tab=all): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data\index.php，位于行 609
+错误发生！错误属于：2,file_get_contents(https://api.so.360kan.com/index?force_v=1&kw=��Ӱ&from=&pageno=1&v_ap=1&tab=all): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+，所在文件 C:\Users\Administrator\Desktop\XyPlayer ���ܽ��� v4.22\mov\data\index.php，位于行 609
